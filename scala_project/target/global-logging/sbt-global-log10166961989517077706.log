@@ -1,0 +1,11 @@
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(scalac UserAction,scala Chatbot.scala Main.scala, Some(14ead86c-b7b5-4590-b995-22fc242b08ca), Some(CommandSource(console0)))[0m
+[0m[[0m[31merror[0m] [0m[0mExpected ID character[0m
+[0m[[0m[31merror[0m] [0m[0mNot a valid command: scalac (similar: alias)[0m
+[0m[[0m[31merror[0m] [0m[0mExpected project ID[0m
+[0m[[0m[31merror[0m] [0m[0mExpected configuration[0m
+[0m[[0m[31merror[0m] [0m[0mExpected ':'[0m
+[0m[[0m[31merror[0m] [0m[0mExpected key[0m
+[0m[[0m[31merror[0m] [0m[0mNot a valid key: scalac (similar: scalaSource, scalaHome, scalaInstance)[0m
+[0m[[0m[31merror[0m] [0m[0mscalac UserAction,scala Chatbot.scala Main.scala[0m
+[0m[[0m[31merror[0m] [0m[0m      ^[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(shell, None, None)[0m

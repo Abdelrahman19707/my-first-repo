@@ -1,0 +1,23 @@
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(compile, Some(3df5a4a1-578e-4861-bf9d-21aa1b95ed4b), Some(CommandSource(console0)))[0m
+[0m[[0m[0mdebug[0m] [0m[0mEvaluating tasks: Compile / compile[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning task... Cancel: Signal, check cycles: false, forcegc: true[0m
+[0m[[0m[0minfo[0m] [0m[0mcompiling 2 Scala sources to C:\Users\messi\OneDrive\scala project\target\scala-3.4.1\classes ...[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m[33m-- Warning: C:\Users\messi\OneDrive\scala project\src\main\scala\Main.scala:33:1 [0m[0m[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m33 |[0m [33mval[0m [36mtext[0m = lst.mkString([31m" "[0m).toLowerCase.replaceAll([31m"[^a-z0-9 ]"[0m, [31m""[0m).trim[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m[33m   |[0m ^[0m[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m   |[0m Line is indented too far to the left, or a `}` is missing[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m[33m-- Warning: C:\Users\messi\OneDrive\scala project\src\main\scala\Main.scala:36:1 [0m[0m[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m36 |[0m [33mval[0m [36mcleanedStatements[0m = statements.map(_.toLowerCase.replaceAll([31m"[^a-z0-9 ]"[0m, [31m""[0m).trim)[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m[33m   |[0m ^[0m[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m   |[0m Line is indented too far to the left, or a `}` is missing[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m[33m-- Warning: C:\Users\messi\OneDrive\scala project\src\main\scala\Main.scala:39:1 [0m[0m[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m39 |[0m [33mval[0m [36mmatchIndex[0m = cleanedStatements.indexWhere([36mstmt[0m => {[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m[33m   |[0m ^[0m[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m   |[0m Line is indented too far to the left, or a `}` is missing[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m[33m-- Warning: C:\Users\messi\OneDrive\scala project\src\main\scala\Main.scala:45:1 [0m[0m[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m45 |[0m [33mif[0m (matchIndex >= [31m0[0m) [33mreturn[0m matchIndex + [31m1[0m[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m[33m   |[0m ^[0m[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m   |[0m Line is indented too far to the left, or a `}` is missing[0m
+[0m[[0m[33mwarn[0m] [0m[0mfour warnings found[0m
+[0m[[0m[32msuccess[0m] [0m[0mTotal time: 2 s, completed May 4, 2025, 11:13:57 PM[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(shell, None, None)[0m
