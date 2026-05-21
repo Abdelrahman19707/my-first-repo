@@ -46,3 +46,23 @@ An interactive **Scala-based** chatbot that supports **fun educational quizzes**
 - Built and integrated the **chatbot interaction function** (`respondto`) for engaging Q&A sessions based on user input.
 - Designed and structured the **JSON data model** to support historical, scientific, and geographic facts across multiple subcategories.
 - Contributed to utility functions for parsing user input and formatting responses.
+
+---
+
+---
+
+## 🌐 Enterprise Network Project  
+A Cisco Packet Tracer enterprise network project with **HQ/Core**, multiple branches, **VLANs**, **DHCP**, **DNS**, Web/Email servers, routing, firewall testing, and ISP/Cloud connectivity.  
+
+🔗 [View Packet Tracer File](https://github.com/Abdelrahman19707/my-first-repo/tree/main/Network-Project/Networks_Project.pkt)  
+📄 [View Documentation](https://github.com/Abdelrahman19707/my-first-repo/tree/main/Network-Project/Project_Documentation.pdf)
+
+### My Contributions:
+- Configured and organized **Branch 2** in the company network.
+- Set up Branch 2 end devices and connected them to the branch switch/router.
+- Configured VLAN-based department separation for Branch 2.
+- Configured DHCP settings so Branch 2 PCs could receive IP addresses automatically.
+- Configured and tested the company servers, including **DNS**, **Web**, and **Email** services.
+- Added DNS records so devices could reach services using domain names.
+- Tested connectivity from Branch 2 PCs to other branches and the HQ servers.
+- Helped verify network functionality using ping and service testing.
